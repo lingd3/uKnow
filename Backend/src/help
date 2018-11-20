@@ -1,0 +1,12 @@
+cd /Users/gd/Downloads/Flask
+. venv/bin/activate 
+pip install Flask
+pip install pyOpenSSL
+cd /Users/gd/Desktop/Backend
+python server.py
+
+172.19.53.229:5000/api/questions/recommend
+
+https://172.19.53.229:5000/api/wx/questions/recommend
+
+mysql -h123.207.233.226 -uroot -pxuewen520
